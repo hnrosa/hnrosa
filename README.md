@@ -1,9 +1,9 @@
-###
 
-Graduado em Engenharia Mecânica com grande interesse em Ciência de Dados,
-tema do Trabalho de Conclusão de Curso. Especialidade em Programação em Python,
-elaborando e minstrando um curso da linguagem para sua Aplicação Científica.
-Competente em formular e solucionar problemas, enfoque de meu Estágio de P&D.
+
+- 🔭 I’m currently working on `Structural Health Monitoring`.
+- 🌱 I’m currently learning `Machine Learning`, `Deep Learning` and `SQL`.
+- 👯 I’m looking to collaborate with `Data Professionals` and `Mechanical Engineers`.
+- 🤔 I’m looking for help with `MLOps`.
 
 <!--
 **hnrosa/hnrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
