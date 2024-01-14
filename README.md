@@ -1,5 +1,7 @@
 # Seja Bem Vindo ao meu Repositório!
 
+Olá, me chamo Heitor Nunes Rosa, Graduado em Engenharia Mecânica e Mestrando na mesma área, com um grande interesse em Ciência de Dados, tema do Trabalho de Conclusão de Curso e Dissertação. Especialidade em Programação em Python, elaborando e minstrando um curso da linguagem para sua Aplicação Científica. Competente em formular e solucionar problemas. Atualmente trabalho como Trainee pela Empresa The PAC Group.
+
 ## PROJETOS
 
 ### [Predição de Performance de Hélices de VANTs com XGBoost](https://github.com/hnrosa/uiuc-propeller) 
