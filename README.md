@@ -64,6 +64,6 @@ Olá, me chamo Heitor Nunes Rosa, Graduado em Engenharia Mecânica e Mestrando n
 
 ## [Perfil Kaggle](https://www.kaggle.com/heitornunes)
 
-![alt text](kaggle_file.png)
+![alt text](kaggle_file_.png)
 
 
