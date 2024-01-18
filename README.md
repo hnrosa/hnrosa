@@ -61,3 +61,9 @@ Olá, me chamo Heitor Nunes Rosa, Graduado em Engenharia Mecânica e Mestrando n
         Análise de Dados: Matplotlib, Seaborn, Pandas
 
 ![Alt text](virada.png)
+
+## [Perfil Kaggle](https://www.kaggle.com/heitornunes)
+
+![alt text](kaggle_file.png)
+
+
